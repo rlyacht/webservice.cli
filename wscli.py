@@ -2,7 +2,7 @@ import argparse
 from string import Template
 import poster
 
-# onion
+# dip
 
 class doitAction(argparse.Action):
     def __init__(self, option_strings, dest, nargs=None, **kwargs):
